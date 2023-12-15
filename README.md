@@ -1,7 +1,64 @@
 # Анализ систем CRM
 
 ## [ CRM  МойСклад ] (https://crmindex.ru)
-
+Commits on Dec 14, 2023
+Update and rename PUPSSI.md to README.md
+LizaLR
+LizaLR
+committed
+20 hours ago
+·
+Verified
+Update PUPSSI.md
+LizaLR
+LizaLR
+committed
+20 hours ago
+·
+Verified
+Update PUPSSI.md
+LizaLR
+LizaLR
+committed
+20 hours ago
+·
+Verified
+Update PUPSSI.md
+LizaLR
+LizaLR
+committed
+yesterday
+·
+Verified
+Update PUPSSI.md
+LizaLR
+LizaLR
+committed
+yesterday
+·
+Verified
+Update PUPSSI.md
+LizaLR
+LizaLR
+committed
+yesterday
+·
+Verified
+Update PUPSSI.md
+LizaLR
+LizaLR
+committed
+yesterday
+·
+Verified
+Update PUPSSI.md
+LizaLR
+LizaLR
+committed
+yesterday
+·
+Verified
+Update PUPSSI.md
 - Цена: -- 0 – 6900 рос. руб
 
 - Условия пользования:---регистрация и приобретение пакета
